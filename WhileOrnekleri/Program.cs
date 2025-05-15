@@ -67,5 +67,3 @@ while (i < 121)
 }
 
 Console.WriteLine("1 ile 120 arasındaki tek sayıların toplamı: " + tekToplam + " çift sayıların toplamı: " + ciftToplam);
-
-
