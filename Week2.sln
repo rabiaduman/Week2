@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TatilUygulamasi", "TatilUyg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IlkMetotUygulamamız", "IlkMetotUygulamamız\IlkMetotUygulamamız.csproj", "{5FDB0258-2CFE-49C9-ADB8-D443102CA6B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta2Kapanis", "Hafta2Kapanis\Hafta2Kapanis.csproj", "{2C0E20CE-E8EF-4394-BBF4-BE953D84314D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5FDB0258-2CFE-49C9-ADB8-D443102CA6B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FDB0258-2CFE-49C9-ADB8-D443102CA6B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FDB0258-2CFE-49C9-ADB8-D443102CA6B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C0E20CE-E8EF-4394-BBF4-BE953D84314D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0E20CE-E8EF-4394-BBF4-BE953D84314D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0E20CE-E8EF-4394-BBF4-BE953D84314D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0E20CE-E8EF-4394-BBF4-BE953D84314D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
